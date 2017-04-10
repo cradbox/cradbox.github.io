@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #696969;
+    background-color: #1C1C1C;
 }
 
 nav ul, footer ul {
@@ -33,7 +33,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #A0A0A0;
 }
 
 footer {
